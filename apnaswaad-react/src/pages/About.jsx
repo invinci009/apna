@@ -33,11 +33,11 @@ const About = () => {
                         </div>
                         <div className="border-t border-gray-300 pt-4 mt-6 text-center">
                             <p className="text-sm text-gray-600">
-                                Made with ❤️ by <strong>Md Amanullah</strong>
+                                Made with ❤️ by <strong>Ayush Neeraj</strong>
                                 <br />
-                                Instagram: <a href="https://www.instagram.com/_.amanullah/" className="text-red-500 hover:underline" target="_blank" rel="noopener noreferrer">@_.amanullah</a>
+                                Instagram: <a href="https://www.instagram.com/its_ayush_pradhan_01" className="text-red-500 hover:underline" target="_blank" rel="noopener noreferrer">@_.amanullah</a>
                                 <br />
-                                GitHub: <a href="https://github.com/amaan-exe" className="text-red-500 hover:underline" target="_blank" rel="noopener noreferrer">@amaan-exe</a>
+                                GitHub: <a href="https://github.com/ayushneeraj8055-web" className="text-red-500 hover:underline" target="_blank" rel="noopener noreferrer">@amaan-exe</a>
                             </p>
                         </div>
                     </div>
