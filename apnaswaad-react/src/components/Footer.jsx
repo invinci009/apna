@@ -170,7 +170,7 @@ const Footer = () => {
                                 rel="noopener noreferrer"
                                 className="text-orange-400 hover:text-orange-300 font-semibold transition-colors"
                             >
-                                Md Amanullah
+                                Ayush Neeraj
                             </a>
                         </div>
                     </div>
